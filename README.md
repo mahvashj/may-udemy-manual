@@ -6,4 +6,3 @@ Preview demo site [right here](https://www.thanosjs.org).
 
 Thanks to [Rasmus Andersson](https://twitter.com/rsms) for creating [Inter UI font](https://rsms.me/inter/).
 
-https://app.netlify.com/start/deploy?repository=https://github.com/may-udemy-manual
